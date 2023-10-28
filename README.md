@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elijh Curges</h1>
+<h1 align="center">Hi 👋, I'm Elijah Curges</h1>
 <h3 align="center">Frontend Developer</h3>
 
 - 🌱 I’m currently learning **JavaScript**
