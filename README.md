@@ -3,6 +3,4 @@
 
 - 📫 How to reach me **ecurges@proton.me**
 
-👨‍💻 Data Analyst | 📊 Data Enthusiast | Code Enthusiast
-
-🔍 Passionate about transforming raw data into actionable insights
+👨‍💻 Code Enthusiast
