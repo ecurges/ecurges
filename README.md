@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elijah Curges</h1>
-<h3 align="center">Tech Enthusiast</h3>
+<h3 align="center">Frontend Developer | Tech Enthusiast</h3>
 
 - 🌱 I’m currently learning **Firebase**
 
