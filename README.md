@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elijah Curges</h1>
-<h3 align="center">Web Desinger</h3>
+<h3 align="center">Software Engineer</h3>
 
 - 🌱 I’m currently learning **Webflow**
 
